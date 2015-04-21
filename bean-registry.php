@@ -3,7 +3,7 @@
  * Plugin Name: Bean Registry
  * Plugin URI: http://themebeans.com/plugins/bean-registry
  * Description: Enables shortcode registry links to be added in your WordPress theme.
- * Version: 1.0
+ * Version: 1.1
  * Author: ThemeBeans
  * Author URI: http://themebeans.com
  *
