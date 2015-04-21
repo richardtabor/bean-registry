@@ -1,3 +1,13 @@
+APR 21 2015 - Version 1.1
+<ul>
+<li>Home Depot shortcode (new)</li>
+<li>Babies R Us shortcode (new)</li>
+<li>Honeyfund shortcode (new)</li>
+<li>John Lewis shortcode (new)</li>
+<li>Thankful Registry shortcode (new)</li>
+<li>Walmart shortcode (new)</li>
+</ul>
+
 Nov 21 2014 - Version 1.0
 <ul>
 <li>Initial Release</li>
