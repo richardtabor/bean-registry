@@ -1,3 +1,8 @@
+JUL 23 2015 - Version 1.1.2
+<ul>
+<li>Dillards shortcode (new)</li>
+<ul>
+
 JUN 29 2015 - Version 1.1.1
 <ul>
 <li>Optimized images</li>

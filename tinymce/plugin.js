@@ -22,6 +22,9 @@
                  createSubmenuButtonImmediate( "Crate & Barrel",
                     '[bean_registry registry="crate-and-barrel" url=""]'
                     ),
+                 createSubmenuButtonImmediate( "Dillards",
+                    '[bean_registry registry="dillards" url=""]'
+                    ),
                  createSubmenuButtonImmediate( "Etsy",
                     '[bean_registry registry="etsy" url=""]'
                     ),
